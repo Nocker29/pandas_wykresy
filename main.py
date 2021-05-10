@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import openpyxl as op
 
 #zad1
 df = pd.read_excel('imiona.xlsx', header=0)
